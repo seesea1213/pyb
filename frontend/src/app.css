@@ -1,0 +1,13 @@
+/* 페이징 컨트롤 */
+
+.custom-page-item .page-link {
+    width: 40px; /* 너비 설정 */
+    text-align: center; /* 텍스트를 버튼 중앙에 배치 */
+}
+
+/* 선택적: page-item 사이의 간격 조정 */
+.custom-page-item {
+    margin-right: 5px; /* 오른쪽 여백 설정 */
+}
+
+
